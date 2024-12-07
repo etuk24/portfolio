@@ -10,3 +10,9 @@ Hello! My name is Anietie Etuk. I am a Data Analytics Coach | Course Creator | L
   
 - Statistical Analysis
   
+## Projects
+
+## Contact Details
+
+## Resume
+
