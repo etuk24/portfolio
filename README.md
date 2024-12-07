@@ -43,7 +43,7 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 
 Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
 
-<a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a>
+<a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download the Report (pdf file) here</a>
 
 
 ## CONTACT DETAILS
