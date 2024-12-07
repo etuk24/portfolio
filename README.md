@@ -43,8 +43,7 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 
 Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
-You can access the file [Here]<a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a>
+<a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a>
 
 
 ## CONTACT DETAILS
